@@ -90,12 +90,17 @@ Accurate forecasts of airline passenger traffic are crucial for airline companie
 
 - `Time series analysis.ipynb` — Main analysis notebook
 - `non-seasonal.csv` — Annual passenger data (World Bank)
-- `December 2024 Air Traffic.xlsx` — Monthly passenger data (BTS)
+- `seasonal.xlsx` — Monthly passenger data (BTS)
 - `README.md` — Project overview and instructions
 
 ## Executive Summary
 
 This project demonstrates the practical application of statistical time series models for transportation prediction. Through thorough model comparison, residual inspection, and ensemble techniques, it provides actionable insights and reliable forecasts for U.S. airline passenger volumes.
+
+## Deployment
+
+Deployed on **Streamlit Cloud**:  
+ https://time-series-analyssis.streamlit.app/
 
 ---
 
